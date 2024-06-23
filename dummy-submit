@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name='What ist this website about' content='This is a dummy website, which will lose its sense of existence, when the presentation is finished.'>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dummy Webseite</title>
+</head>
+<body>
+    <h1>Ich bin auch eine Dummy-Webseite die zue Submit-Anfrage erstellt wurde!</h1>
+    <p>Dies ist eine einfache Webseite, um die Bing Webmaster API zu testen.</p>
+</body>
+</html>
